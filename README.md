@@ -1,5 +1,5 @@
 <h1 align="center">Eai 👋 </h1>
-<hr>
+
 
 <p>
 Sou o Alex Berton, estou aprendendo sobre programação e faço Análise e Desenvolvimento de Sistemas na PUCMINAS.
