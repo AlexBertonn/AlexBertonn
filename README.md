@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Eai 👋 </h1>
+<hr>
 
-<!--
-**AlexBertonn/AlexBertonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Sou o Alex Berton, estou aprendendo sobre programação e faço Análise e Desenvolvimento de Sistemas na PUCMINAS.
+Até o momento me identifiquei muito com a área de desenvolvimento de interfaces e front-end, acredito que eu siga por este caminho.
+</p>
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho na área administrativa como Analista.
+- 🌱 Estou estudando Js, Node.js, React, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBertonn&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBertonn&layout=compact&theme=dark)
+
