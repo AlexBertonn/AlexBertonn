@@ -10,5 +10,5 @@ Até o momento me identifiquei muito com a área de desenvolvimento de interface
 - 🌱 Estou estudando Js, Node.js, React, SQL.
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexBertonn&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBertonn&layout=compact&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBertonn&layout=compact&theme=dark)
 
