@@ -9,6 +9,8 @@ Até o momento me identifiquei muito com a área de desenvolvimento de interface
 - 🔭 Atualmente trabalho na área administrativa como Analista.
 - 🌱 Estou estudando Js, Node.js, React, SQL.
 
- 
-![Anurag's GitHub stats](https://github-readme-stats-alex-bertons-projects.vercel.app/api?username=AlexBertonn&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBertonn&layout=compact&theme=dark) 
-
+<div>
+  <a href="https://github.com/AlexBertonn">
+    <img align="center" height="200em" src="https://github-readme-stats-git-master-alex-bertons-projects.vercel.app/api?username=AlexBertonn&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img align="center" height="200em" src="https://github-readme-stats-git-master-alex-bertons-projects.vercel.app/api/top-langs/?username=AlexBertonn&border_radius=false&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=contribs"/>
+</div>
