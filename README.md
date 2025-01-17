@@ -1,4 +1,11 @@
-<h1 align="center">Eai 👋 </h1>
+<h1 align="center">
+<div align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100&color=FFFF&center=true&vCenter=true&random=false&width=524&lines=Bem-Vindo Ao Meu Perfil! 👋" alt="Typing SVG">
+</a>
+</div>  
+</h1>
+
 <br/>
 <p>
 Sou o Alex Berton, estou aprendendo sobre programação e faço Análise e Desenvolvimento de Sistemas na PUCMINAS.
