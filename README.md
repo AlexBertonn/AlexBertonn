@@ -11,10 +11,6 @@
 Sou o Alex Berton, estou aprendendo sobre programação e recentemente me formei em Análise e Desenvolvimento de Sistemas na PUCMINAS.
 Até o momento me identifiquei muito com a área de desenvolvimento de interfaces e front-end, acredito que eu siga por este caminho.
 </p>
-- 🔭 Atualmente trabalho na área administrativa como Analista.
-<br/>
-- 🌱 Estou estudando Js, Node.js, React, SQL.
-<br/>
 <br/>
 <div align="center">
   <a href="https://github.com/AlexBertonn">
